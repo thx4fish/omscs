@@ -43,7 +43,7 @@
     - Each rectangle is divited vertically(from top to buttom): ClassNmame, Attributes(percepts), Operations.
 - Add **Relationships** between the components: Associations, Aggregations, Generalization.
 - Think about **Subtleties** which include special cases and uniques situations...
-- Percept is an attribute that users can 
+- Percept is an explicit attribute the user can see
 
 ![alt text](/images/cs6310-display-diagram.png "UML Diagram")
 
