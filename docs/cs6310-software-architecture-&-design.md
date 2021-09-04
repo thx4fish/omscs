@@ -54,6 +54,8 @@
 - **Design** is a deliberative, purposive planning.
 - **Engineering** is a skilful or artful contrivance applying scientific and mathematical principles
 - **Software Design** is a process of building a program while satisfying a problem's functional requirements and not violating its non-functional constraints. Contains two phases.
+- **Craft** is skilled occupation
+- **Art** is a use of skill, taste, and imagination in the production of aesthetic objects
 
 **Phases** 
 
@@ -69,7 +71,7 @@
 - **Approaches** to Software Design. It's include 3 aspects: *method, representational, and validation.*
 - **Design Documentation** is key concept in Software Design with *Subcomponents, Control Flow, Performance, Resources.*
 - Low **Coupling** is good (Java packages) and high **Cohesion** good.
-- **Information Hiding** is an encapsulating the capabilities of the module begidn the abstract interface.
+- **Information Hiding** is an encapsulating the capabilities of the module behind the abstract interface.
 - **Abstraction** & **Refinement** is *Declarative, Aggregation, Generalization, Parameterization, and Non-determinism.*
 - **Aesthetics** includes *completeness, consistency, and conceptual integrity.*
 - **Design Philosophy** includes *anlysis, models, user-centered design, IDEs, tools, language and games*
@@ -92,6 +94,7 @@
     - **Deployment Diagram** - components and structural properties.
     - **Package Diagram** - logical grouping and dependencies
     - **Profile Diagram** - extension to the UML meta model.
+    - class, component, deployment, package diagram conveys system architecture
 - **Behavior** diagrams are concerned with the execution(s) of the system.
     - **Use Case Diagram** - system functionality provided to external actors.
     - **State Diagram** -  dynamic behavior in response to stimuli.
