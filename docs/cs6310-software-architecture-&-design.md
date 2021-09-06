@@ -179,13 +179,18 @@
 **Relationships**
 
 - **Association** Example: people drive vehicles.
-    - Roles: Name, association classes, aggregation or composition.
+    - Roles: Name, association classes, aggregation(open diamond)or composition(close diamond). 2 parties in a compostion have to end together.
     - It can have qualifiers and links.
     - It can express Navigability, multiplicity, and constraints.
+    - qualifier = key
+    - links =
 - **Generalizartion** Example: that car is kind of vehicle.
     - Instances of the subclass must have all properties of instances of the parent class 
     - Supports both multiple parent classes for a given class, and multiple child classes for a given parent class.
 - **Dependencies** Example: cars and pollution laws.
+
+
+
 
 ## P2L4 Design Studies
 
